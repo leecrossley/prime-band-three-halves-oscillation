@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24410827.svg)](https://doi.org/10.5281/zenodo.24410827)
 
+This result is now maintained in [prime-window-all-widths](https://github.com/leecrossley/prime-window-all-widths/tree/main/results/prime-band-three-halves-oscillation). This repository is archived and keeps its releases and DOI.
+
 Assuming the Riemann hypothesis (RH) and that the distinct positive ordinates of the nontrivial zeta zeros are linearly independent over the rationals, the weighted sum of primes between $y$ and $2.25y$ at dilation $b=3/2$ does not stay on one side of its predicted size. It is below the prediction at arbitrarily large $y$ and above it at arbitrarily large $y$.
 
 This contrasts with dilations above the transition $b_\ast\approx1.5034$ in the same family, where RH forces a shortfall at all sufficiently large $y$. It also contrasts with the finite check at this dilation, which finds a shortfall at every scale up to 100,000.
